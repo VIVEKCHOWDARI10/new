@@ -1,1 +1,1 @@
-echo "hello  please go and walk  "
+echo "hello  pls go and walk  "
